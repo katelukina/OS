@@ -1,0 +1,26 @@
+history | sort -r > ex2.txt
+head < ex1.txt
+./ex4
+gcc main.c -o ex4
+cat > main.c
+sh ex3.sh
+cat > ex3.sh
+cd ~/week1
+sleep 3
+date
+ls | sort -r | grep gcc > ~/week1/ex1.txt
+cd /usr/bin
+ls -a | sort -r | grep gcc | echo > ~/week1/ex1.txt
+ls -a | sort -r | grep gcc stdout | echo > ~/week1/ex1.txt
+ls -a | sort -r | grep gcc ~/week1/ex1.txt
+ls -a | sort -r | grep "gcc" ~/week1/ex1.txt
+ls -a | sort -r | grep "gcc" ~/week/ex1.txt
+ls -a | sort -r | grep "gcc" ex1.txt
+head -n 3 < ex1.txt
+head -n 3  < ex1.txt
+head -n < ex1.txt
+cat ex1.txt
+cat > ex1.txt
+clear
+ls -a
+mkdir ~/week1
